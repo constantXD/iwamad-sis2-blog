@@ -67,4 +67,14 @@ export const initialPosts: BlogPost[] = [
     author: "DevOps",
     date: "2026-10-13",
   },
+  {
+    id: 7,
+    title: "Design Tokens and Dynamic Theme Architecture",
+    excerpt:
+      "Structuring CSS custom properties for effortless dark mode and brand palettes.",
+    content:
+      "Modern CSS custom properties allow defining scalable design systems directly in pure CSS. By pairing high-contrast accent tokens like amber-yellow with rich surface dark tones, web apps achieve accessible contrast ratios and seamless visual consistency across modular components.",
+    author: "DesignOps",
+    date: "2026-10-19",
+  },
 ];
